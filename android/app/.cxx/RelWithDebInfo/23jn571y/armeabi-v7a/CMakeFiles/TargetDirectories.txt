@@ -1,0 +1,2 @@
+/Users/alexandr/FlutterProjects/scenario_maker_app/android/app/.cxx/RelWithDebInfo/23jn571y/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/alexandr/FlutterProjects/scenario_maker_app/android/app/.cxx/RelWithDebInfo/23jn571y/armeabi-v7a/CMakeFiles/rebuild_cache.dir

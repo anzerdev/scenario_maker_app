@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1079746226332",
+    "project_id": "scenario-maker-app-zeroc-20ed9",
+    "storage_bucket": "scenario-maker-app-zeroc-20ed9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079746226332:android:d660bb0558e9427cfaa559",
+        "android_client_info": {
+          "package_name": "com.example.scenario_maker_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbFCRNw4Zga3Ir0BYfRTrBzAAQqggHYXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
